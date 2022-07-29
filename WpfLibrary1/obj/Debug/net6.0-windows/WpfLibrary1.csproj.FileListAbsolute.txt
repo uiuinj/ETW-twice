@@ -1,0 +1,15 @@
+C:\Users\a'a\source\repos\WpfLibrary1\WpfLibrary1\bin\Debug\net6.0-windows\WpfLibrary1.deps.json
+C:\Users\a'a\source\repos\WpfLibrary1\WpfLibrary1\bin\Debug\net6.0-windows\WpfLibrary1.dll
+C:\Users\a'a\source\repos\WpfLibrary1\WpfLibrary1\bin\Debug\net6.0-windows\WpfLibrary1.pdb
+C:\Users\a'a\source\repos\WpfLibrary1\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.csproj.AssemblyReference.cache
+C:\Users\a'a\source\repos\WpfLibrary1\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a'a\source\repos\WpfLibrary1\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.AssemblyInfoInputs.cache
+C:\Users\a'a\source\repos\WpfLibrary1\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.AssemblyInfo.cs
+C:\Users\a'a\source\repos\WpfLibrary1\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\a'a\source\repos\WpfLibrary1\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.dll
+C:\Users\a'a\source\repos\WpfLibrary1\WpfLibrary1\obj\Debug\net6.0-windows\refint\WpfLibrary1.dll
+C:\Users\a'a\source\repos\WpfLibrary1\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.pdb
+C:\Users\a'a\source\repos\WpfLibrary1\WpfLibrary1\obj\Debug\net6.0-windows\ref\WpfLibrary1.dll
+C:\Users\a'a\source\repos\WpfLibrary1\WpfLibrary1\bin\Debug\net6.0-windows\WpfLibrary1.exe
+C:\Users\a'a\source\repos\WpfLibrary1\WpfLibrary1\bin\Debug\net6.0-windows\WpfLibrary1.runtimeconfig.json
+C:\Users\a'a\source\repos\WpfLibrary1\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.genruntimeconfig.cache
